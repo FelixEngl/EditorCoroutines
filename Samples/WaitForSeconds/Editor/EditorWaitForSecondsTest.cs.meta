@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5766a23375fbc3c459336ab567c8bbbb
+labels:
+- Script
+- Sample
+- EditorCoroutine
+timeCreated: 1445713124
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

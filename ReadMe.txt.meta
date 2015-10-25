@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d5b3db607a43cc2499d7beefdc12fa41
+labels:
+- readme
+- EditorCoroutine
+timeCreated: 1445700011
+licenseType: Free
+TextScriptImporter:
+  userData: 
+  assetBundleName: editorcoroutines
+  assetBundleVariant: 
