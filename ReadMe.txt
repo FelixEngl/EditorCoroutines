@@ -26,3 +26,12 @@ Known bugs:
 To-Do:
 	1. More functions
 	2. Improve sample documentation
+    
+    
+Usefull links for the understanding of coroutines and yield:
+
+https://www.reddit.com/r/gamedev/comments/yum87/unity_coroutines_more_than_you_want_to_know/c5z8dsk
+
+https://startbigthinksmall.wordpress.com/2008/06/09/behind-the-scenes-of-the-c-yield-keyword/
+
+http://twistedoakstudios.com/blog/Post83_coroutines-more-than-you-want-to-know
