@@ -6,7 +6,7 @@ using System.Text;
 using UnityEditor;
 using Debug = UnityEngine.Debug;
 
-namespace EditorCoroutines.Samples.WaitForNull
+namespace FreeEditorCoroutines.Samples.WaitForNull
 {
 	[CustomEditor(typeof (WaitForNullTest))]
 	public class EditorWaitForNullTest : AbstractTestClass<WaitForNullTest>

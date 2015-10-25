@@ -1,4 +1,4 @@
-﻿namespace EditorCoroutines.Samples.WaitForSeconds
+﻿namespace FreeEditorCoroutines.Samples.WaitForSecondsSamples
 {
 	public class WaitForSecondsTest : AbstractBehaviourScript
 	{

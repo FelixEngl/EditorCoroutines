@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace EditorCoroutines.Samples.RealCase
+namespace FreeEditorCoroutines.Samples.RealCase
 {
 	public class RealCaseExample : MonoBehaviour
 	{

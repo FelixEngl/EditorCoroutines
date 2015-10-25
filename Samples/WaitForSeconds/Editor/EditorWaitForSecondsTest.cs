@@ -5,10 +5,10 @@ using System.Diagnostics;
 using System.Text;
 using UnityEditor;
 using Debug = UnityEngine.Debug;
+using WaitForSeconds = FreeEditorCoroutines.WaitForSeconds;
 
-namespace EditorCoroutines.Samples.WaitForSeconds
+namespace FreeEditorCoroutines.Samples.WaitForSecondsSamples
 {
-	using WaitForSeconds = EditorCoroutines.WaitForSeconds;
 
 	[CustomEditor(typeof(WaitForSecondsTest))]
 	public class EditorWaitForSecondsTest : AbstractTestClass<WaitForSecondsTest>

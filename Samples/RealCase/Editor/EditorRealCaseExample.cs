@@ -1,12 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEditor;
+using WaitForSeconds = FreeEditorCoroutines.WaitForSeconds;
 
 
-
-namespace EditorCoroutines.Samples.RealCase
+namespace FreeEditorCoroutines.Samples.RealCase
 {
-	using WaitForSeconds = EditorCoroutines.WaitForSeconds;
 	[CustomEditor(typeof(RealCaseExample))]
 	public class EditorRealCaseExample : Editor
 	{

@@ -2,7 +2,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using EditorCoroutines;
+using FreeEditorCoroutines;
 using UnityEngine;
 
 

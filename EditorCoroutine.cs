@@ -4,12 +4,11 @@ using UnityEditor;
 using UnityEngine;
 
 /*
- *   EditorCoroutine gives the user the possibility to start coroutines in editorscripts.
- * 
- *   Copyrigth (c) 2015 Felix Engl
+ * Contact: felix.engl@hotmail.com 
+ * EditorCoroutines 0.8 - Start coroutines in the Editor
  * */
 
-namespace EditorCoroutines
+namespace FreeEditorCoroutines
 {
 	/// <summary>
 	/// Gives the possibility to use coroutines in editorscripts.

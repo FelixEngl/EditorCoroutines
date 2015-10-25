@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace EditorCoroutines.Samples.SimpleCase
+namespace FreeEditorCoroutines.Samples.SimpleCase
 {
 
 	public class SimpleCaseExample : MonoBehaviour {

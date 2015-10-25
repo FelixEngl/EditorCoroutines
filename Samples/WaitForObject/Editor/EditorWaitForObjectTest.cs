@@ -6,7 +6,7 @@ using System.Text;
 using UnityEditor;
 using Debug = UnityEngine.Debug;
 
-namespace EditorCoroutines.Samples.WaitForObject{
+namespace FreeEditorCoroutines.Samples.WaitForObject{
 	[CustomEditor(typeof(WaitForObjectTest))]
 	public class EditorWaitForObjectTest : AbstractTestClass<WaitForObjectTest> {
 

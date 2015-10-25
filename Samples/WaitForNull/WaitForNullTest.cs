@@ -1,5 +1,5 @@
 ﻿
-namespace EditorCoroutines.Samples.WaitForNull
+namespace FreeEditorCoroutines.Samples.WaitForNull
 {
 	public class WaitForNullTest : AbstractBehaviourScript
 	{

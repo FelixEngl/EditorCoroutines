@@ -7,7 +7,7 @@ using UnityEditor;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
-namespace EditorCoroutines.Samples.WaitForWww
+namespace FreeEditorCoroutines.Samples.WaitForWww
 {
 	[CustomEditor(typeof(WaitForWwwTest))]
 	public class EditorWaitForWwwTest : AbstractTestClass<WaitForWwwTest>
