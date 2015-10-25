@@ -17,6 +17,11 @@ Instruction:
 
 Known bugs:
 	1. When seconds at WaitForSeconds are beneath 1.0f the waited time gets a little bit unprecise and takes longer.
+	2. When the project is moved, you may get this error: "SecurityException: No valid crossdomain policy available to allow access"
+		Fix:
+			1. Shut down the Project
+			2. Delete the following file: [ProjectName]\Library\EditorUserBuildSettings.asset
+			3. Start your Project
 
 To-Do:
 	1. More functions
