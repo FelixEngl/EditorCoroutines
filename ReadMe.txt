@@ -1,3 +1,7 @@
+Made with Unity 5.2.1f1
+
+Git: https://github.com/FelixEngl/EditorCoroutines
+
 Version 0.8
 
 Instruction:
@@ -9,14 +13,14 @@ Instruction:
 3. Use it in your code like this
 	EditorCoroutine.StartCoroutine(IEnumerator);
 4. Possible yield values
-	4.1	WWW
+	4.1 WWW
 	4.2 WaitForSeconds(float f)
 	4.3 a random value
 	4.4 null
 
 
 Known bugs:
-	1. When seconds at WaitForSeconds are beneath 1.0f the waited time gets a little bit unprecise and takes longer.
+	1. When the seconds at WaitForSeconds are <1.0f the waited time gets unprecise (it takes a few milliseconds longer).
 	2. When the project is moved, you may get this error: "SecurityException: No valid crossdomain policy available to allow access"
 		Fix:
 			1. Shut down the Project
@@ -28,7 +32,7 @@ To-Do:
 	2. Improve sample documentation
     
     
-Usefull links for the understanding of coroutines and yield:
+Usefull links to understand coroutines and yield:
 
 https://www.reddit.com/r/gamedev/comments/yum87/unity_coroutines_more_than_you_want_to_know/c5z8dsk
 

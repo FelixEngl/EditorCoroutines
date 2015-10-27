@@ -86,10 +86,10 @@ namespace FreeEditorCoroutines.Samples.RealCase
 		{
 			int numberToIterate = 0;
 			int iter = iterations;
-			if (iter > 100)
+			if (iter > 1000)
 			{
-				iter = 100;
-				Debug.Log("Warning iterating over "+ iter + " might crash you Unity instance, reduce to " + iter);
+				iter = 1000;
+				Debug.Log("Warning iterating over "+ iter + " times might crash you Unity instance, reduce to " + iter);
 			}
 			Debug.Log("Start without Iterator");
 			while (numberToIterate < iter)
