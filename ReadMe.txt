@@ -1,4 +1,6 @@
 Made with Unity 5.2.1f1
+by Felix Engl (c)
+Contact: felix.engl@hotmail.com 
 
 Git: https://github.com/FelixEngl/EditorCoroutines
 
