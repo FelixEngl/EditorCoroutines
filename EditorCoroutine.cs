@@ -6,6 +6,7 @@ using UnityEngine;
 /*
  * Contact: felix.engl@hotmail.com 
  * EditorCoroutines 0.8 - Start coroutines in the Editor
+ * written by Felix Engl
  * */
 
 namespace FreeEditorCoroutines
